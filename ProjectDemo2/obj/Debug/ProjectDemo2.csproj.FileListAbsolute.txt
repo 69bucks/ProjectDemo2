@@ -1,0 +1,7 @@
+D:\BT\Học kì 4\Công nghệ phần mềm nâng cao\ProjectDemo2-main\ProjectDemo2\bin\Debug\ProjectDemo2.exe.config
+D:\BT\Học kì 4\Công nghệ phần mềm nâng cao\ProjectDemo2-main\ProjectDemo2\bin\Debug\ProjectDemo2.exe
+D:\BT\Học kì 4\Công nghệ phần mềm nâng cao\ProjectDemo2-main\ProjectDemo2\bin\Debug\ProjectDemo2.pdb
+D:\BT\Học kì 4\Công nghệ phần mềm nâng cao\ProjectDemo2-main\ProjectDemo2\obj\Debug\ProjectDemo2.csproj.AssemblyReference.cache
+D:\BT\Học kì 4\Công nghệ phần mềm nâng cao\ProjectDemo2-main\ProjectDemo2\obj\Debug\ProjectDemo2.csproj.CoreCompileInputs.cache
+D:\BT\Học kì 4\Công nghệ phần mềm nâng cao\ProjectDemo2-main\ProjectDemo2\obj\Debug\ProjectDemo2.exe
+D:\BT\Học kì 4\Công nghệ phần mềm nâng cao\ProjectDemo2-main\ProjectDemo2\obj\Debug\ProjectDemo2.pdb

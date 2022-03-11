@@ -12,6 +12,9 @@ namespace ProjectDemo2
         {
             Console.WriteLine("Ho va ten: Nguyenn Nhon Hoa");
             Console.WriteLine("MSSV: 19dh111074");
+
+            Console.WriteLine("Ho va ten: Ly Hanh Phat");
+            Console.WriteLine("MSSV: 19dh110838");
         }
     }
 }
